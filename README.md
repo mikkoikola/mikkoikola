@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mikkoikola
-- 👀 I’m interested in blockchain and disruptive protocols in the decentralized world
-- 🌱 I’m looking forward to contribute and get involved in a blockchain project 
-- 💞️ Previously entrepreneur in the E-commerce space, background in Computer Science
-- 📫 You can read my writings at https://mikkoikola.com/ and follow me at https://twitter.com/MikkoIkola
+- 👀 I’m passionate about web 3, blockchain and disruptive protocols in the decentralized world
+- 💞️ I was previously CMO at early-stage web3 protocol. Before that entrepreneur in the E-com space. M.Sc. in Computer Science
+- 🌱 You can read and subscribe to receive my writings at https://mikkoikola.com/ 
+- 📫 See my Twitter: https://twitter.com/MikkoIkola and LinkedIn: https://linkedin.com/in/mikkoikola 
 
 <!---
 mikkoikola/mikkoikola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
