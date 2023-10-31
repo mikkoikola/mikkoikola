@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mikkoikola
-- 👀 I’m passionate about web 3, blockchain and disruptive protocols in the decentralized world
-- 💞️ I was previously CMO at early-stage web3 protocol. Before that entrepreneur in the E-com space. M.Sc. in CS.
-- 🌱 You can read and subscribe to receive my writings at https://mikkoikola.com/ 
+- 👋 Hey, I’m Mikko!
+- 👀 I’ve been working in the Ethereum L2 and infra space in leading Communications/Community teams
+- 💞️ Previously, I was entrepreneur in the E-com space. M.Sc. in Computer Science.
+- 🌱 You can read my writings at https://mikkoikola.com/ 
 - 📫 See my Twitter: https://twitter.com/MikkoIkola and LinkedIn: https://linkedin.com/in/mikkoikola 
 
 <!---
